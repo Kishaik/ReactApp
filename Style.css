@@ -1,9 +1,4 @@
-.fakeimg {
-    height: 200px;
-    background: #aaa;
-  }
-
-  .header {
+.header {
   overflow: hidden;
   background-color: white;
   padding: 20px 10px;
